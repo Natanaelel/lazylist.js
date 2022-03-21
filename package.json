@@ -1,0 +1,8 @@
+{
+    "name": "@natanalel/lazylist",
+    "description": "Lazy lists in javascript",
+    "authors": "Natanael",
+    "version": "1.0.2",
+    "main": "index.js",
+    "dependencies": {}
+}
